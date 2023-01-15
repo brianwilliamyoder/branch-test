@@ -1,5 +1,3 @@
 Hello.
 Geoffrey Wuz Here
-
-Noah's change
-Hola
+Geoffrey 2
